@@ -69,7 +69,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
                 </div>
             </form>
             <div class="d-flex mt-3 w-100 justify-content-center">
-                    <a class="btn btn-primary" href="">Registrar</a>
+                    <a class="btn btn-primary" href="../cadastro/cadastro.php">Registrar</a>
                 </div>
         </div>
     </main>
