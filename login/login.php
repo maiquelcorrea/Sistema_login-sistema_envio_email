@@ -68,6 +68,9 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
                     <button type="submit" class="btn btn-success w-75">Entrar</button>
                 </div>
             </form>
+            <div class="d-flex mt-3 w-100 justify-content-center">
+                    <a class="btn btn-primary" href="">Registrar</a>
+                </div>
         </div>
     </main>
     <!-- Bootstrap JavaScript Bundle (includes Popper) -->
